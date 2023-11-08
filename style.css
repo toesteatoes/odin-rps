@@ -10,6 +10,7 @@ body {
   background-image: linear-gradient(to right, #AFD2E9 , #A690A4);
   padding: 0;
   margin: 0;
+  justify-content: space-between;
 }
 
 .header {
@@ -19,6 +20,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  position: fixed;
 }
 
 .logo {
